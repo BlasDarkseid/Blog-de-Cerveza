@@ -61,6 +61,12 @@ img {
     width:80rem;
     height: 50rem;
 }
+@media (max-width:996px) {
+    .imagen-blog {
+        width: 40rem;
+        height: 25rem;
+    }
+}
 
 /** Header **/
 .webp .header {
